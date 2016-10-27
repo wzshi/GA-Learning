@@ -1,0 +1,18 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Matlab_GATool_LYJ/ExampleOfChap7_1.m
+#	new file:   Matlab_GATool_LYJ/ExampleOfChap7_12.m
+#	new file:   Matlab_GATool_LYJ/ExampleOfChap7_12_f.m
+#	new file:   Matlab_GATool_LYJ/ExampleOfChap7_1_data_record.xlsx
+#	new file:   Matlab_GATool_LYJ/ExampleOfChap7_1_temp_test.m
+#	new file:   Matlab_GATool_LYJ/ExampleOfChap7_2.m
+#
+雷英杰《Matlab遗传算法工具箱及应用》
+第7章第1、2节例子（单目标函数优化）
+第7章第12节例子（多目标优化问题，权重系数法）
+
